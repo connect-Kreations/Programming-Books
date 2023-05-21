@@ -2,11 +2,11 @@
 
 <h3>Welcome to the world of Connect Kreations, where programming books come to life! Our library is a treasure trove of knowledge contributed by multiple sources. It's time to unlock the power of this repository and embark on an extraordinary learning journey. Join us in shaping the future of programming education. Your unique contribution awaits!</h3>
  
- ************======================*******************
+********************************************************************************************************************************************************
  <h5> 
 Welcome to Connect Kreations! Your contributions to our programming book library are highly appreciated. Let's create a valuable resource together. Join us now!.</h5>
 
- ************======================*******************
+********************************************************************************************************************************************************
 
 <h4>From Connect Kreation,</h4>
 <h4>Credit to all the sources we have sourced to get the best collection of programming books.</h4>
@@ -24,6 +24,15 @@ Once again, I would like to express my deepest gratitude to the entire team at G
 
 Thank you for enriching our lives and enabling us to reach our full potential as programmers.
 
-************======================*******************
+********************************************************************************************************************************************************
+
+<h5 align="left">Connect with Connect Kreations:</h5>
+<p align="left">
+<a href="https://instagram.com/connect_kreations" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="connect_kreations" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/connect-kreations" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="connect-kreations" height="30" width="40" /></a>
+<a href="https://twitter.com/connectkreation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="connectkreation" height="30" width="40" /></a>
+</p>
+
+********************************************************************************************************************************************************
 
 
